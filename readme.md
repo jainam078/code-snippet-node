@@ -34,7 +34,7 @@ This node.js snippet has included the auth, post, and comments crud operations.
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/your-repository.git
+git clone https://github.com/jainam078/code-snippet-node.git
 cd code-snippet-node
 ```
 
